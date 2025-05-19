@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E53BD22-9B75-45E4-9224-994AD805A7F2}|Ecommerce\\Ecommerce.csproj|c:\\users\\franc\\onedrive\\documentos\\projeto\\ecommerce\\ecommerce\\ecommerce\\reademe.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{8E53BD22-9B75-45E4-9224-994AD805A7F2}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\reademe.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E53BD22-9B75-45E4-9224-994AD805A7F2}|Ecommerce\\Ecommerce.csproj|c:\\users\\franc\\onedrive\\documentos\\projeto\\ecommerce\\ecommerce\\ecommerce\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E53BD22-9B75-45E4-9224-994AD805A7F2}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E53BD22-9B75-45E4-9224-994AD805A7F2}|Ecommerce\\Ecommerce.csproj|c:\\users\\franc\\onedrive\\documentos\\projeto\\ecommerce\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E53BD22-9B75-45E4-9224-994AD805A7F2}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E53BD22-9B75-45E4-9224-994AD805A7F2}|Ecommerce\\Ecommerce.csproj|c:\\users\\franc\\onedrive\\documentos\\projeto\\ecommerce\\ecommerce\\ecommerce\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E53BD22-9B75-45E4-9224-994AD805A7F2}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "READEME.md",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\READEME.md",
+              "RelativeDocumentMoniker": "Ecommerce\\READEME.md",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\READEME.md",
+              "RelativeToolTip": "Ecommerce\\READEME.md",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-19T00:51:38.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Models\\Pedido.cs",
+              "RelativeToolTip": "Ecommerce\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T23:50:41.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Program.cs",
+              "RelativeToolTip": "Ecommerce\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:36:40.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Ecommerce\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:35:28.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
