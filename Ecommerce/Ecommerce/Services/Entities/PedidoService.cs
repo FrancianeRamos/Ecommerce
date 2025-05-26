@@ -30,7 +30,7 @@ namespace Ecommerce.Services.Entities
 
             return pedidosDTO;
         }
-        // Fix: Ensure the correct namespace and type are used for "Pedido" in the "ConverterDeModelsParaEntities" method.
+      
         private Ecommerce.Models.Pedido ConverterDeModelsParaEntities(Ecommerce.Models.Pedido pedido)
         {
             return new Ecommerce.Models.Pedido
@@ -81,10 +81,9 @@ namespace Ecommerce.Services.Entities
 
             if (existingPedido.EstadoAtual == EstadoPedido.Pendente)
             {
-                // Evita que o campo de estado seja alterado diretamente pelo usuário
+
                 pedidoDTO.EstadoAtual = (int)existingPedido.EstadoAtual;
 
-                // Recalcula o valor do frete
                 IFrete frete = CriarFretePorTipo((TipoFrete)pedidoDTO.TipoFrete);
                 pedidoDTO.ValorFrete = frete.CalcularFrete(pedidoDTO.SubTotal);
             }
@@ -135,7 +134,7 @@ namespace Ecommerce.Services.Entities
             return pedidoDTO;
         }
 
-        #region Métodos de Conversão
+  
         private IPedidoState ObterEstadoClasse(EstadoPedido estadoPedido)
         {
             return estadoPedido switch
@@ -197,6 +196,6 @@ namespace Ecommerce.Services.Entities
 
             return pedido;
         }
-        #endregion
+
     }
 }

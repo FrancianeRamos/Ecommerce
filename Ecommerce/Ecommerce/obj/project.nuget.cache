@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4VetiZyFy3c=",
+  "dgSpecHash": "ih8SaTEKv08=",
   "success": true,
-  "projectFilePath": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
+  "projectFilePath": "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\franc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

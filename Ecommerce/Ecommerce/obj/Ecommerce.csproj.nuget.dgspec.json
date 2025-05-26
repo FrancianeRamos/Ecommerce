@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj": {}
+    "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj": {
+    "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
         "projectName": "Ecommerce",
-        "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\OneDrive\\Documentos\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\obj\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\Projeto\\Ecommerce\\Ecommerce\\Ecommerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
